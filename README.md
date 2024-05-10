@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1192478488008077328/1238419905372618762/telechargement.gif?ex=663f37ea&is=663de66a&hm=9f1168f4fcac15f6ec6e03b33eba7ac26740f9f8f8bb47454dbb33b0e62d7098&" width="100"/>
+  <img src="https://giphy.com/gifs/justin-raccoon-pedro-tHIRLHtNwxpjIFqPdV" width="100"/>
 </div>
 
 
