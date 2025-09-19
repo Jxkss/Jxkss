@@ -13,7 +13,7 @@
     <a href="https://github.com/Jxkss" target="_blank" style="margin: 0 8px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
     </a>
-    <a href="https://discord.com/users/0zhd" target="_blank" style="margin: 0 8px;">
+    <a href="https://discord.com/users/1154446508238844026" target="_blank" style="margin: 0 8px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30"/>
     </a>
     <a href="https://steamcommunity.com/id/jxksonsteam/" target="_blank" style="margin: 0 8px;">
