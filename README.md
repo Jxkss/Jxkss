@@ -48,8 +48,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jxkss&show_icons=true&theme=radical&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats-three-alpha-23.vercel.app/api?username=Jxkss&show_icons=true&theme=radical&hide_border=true&border_radius=12&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxkss&layout=compact&theme=radical&hide_border=true&border_radius=12)
+![Top Langs](https://github-readme-stats-three-alpha-23.vercel.app/api/top-langs/?username=Jxkss&layout=compact&theme=radical&hide_border=true&border_radius=12&count_private=true)
 
 </div>
