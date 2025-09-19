@@ -33,10 +33,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats-three-alpha-23.vercel.app/api?username=Jxkss&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-three-alpha-23.vercel.app/api/top-langs/?username=Jxkss&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=12&include_all_commits=true" alt="Top Languages"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-three-alpha-23.vercel.app/api/top-langs/?username=Jxkss&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=12&count_private=true" alt="Top Langs"/>
+        <img src="https://github-readme-stats-three-alpha-23.vercel.app/api?username=Jxkss&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
       </td>
     </tr>
   </table>
