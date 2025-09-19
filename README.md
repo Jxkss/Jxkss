@@ -1,18 +1,14 @@
 <div align="center">
-  <!-- Profile Image -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="120" style="border-radius:50%; box-shadow: 0 0 15px #6C63FF;" alt="GitHub"/>
 
-  <!-- Greeting -->
   <h1>I'm <span style="color:#6C63FF;">Jxks</span></h1>
   <h3 style="color:#555;">Full-Stack Developer | VFX & GFX | Lazyness specialist</h3>
 
-  <!-- Typing Effect -->
   <div align="center" style="margin: 20px 0;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C63FF&background=FFFFFF00&vCenter=true&width=500&lines=Python%20%7C%20JavaScript%20%7C%20TypeScript%20%7C%20HTML&CSS;Discord%20Bots%20%7C%20Electron%20Apps%20%7C%20Tools" alt="Typing SVG"/>
 
   </div>
 
-  <!-- Social Links -->
   <p style="margin-top: 10px;">
     <a href="https://github.com/Jxkss" target="_blank" style="margin: 0 8px;">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30"/>
